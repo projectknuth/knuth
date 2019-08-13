@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "112505068679",
+    "firebase_url": "https://knuth-f24fd.firebaseio.com",
+    "project_id": "knuth-f24fd",
+    "storage_bucket": "knuth-f24fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112505068679:android:0a2bceae50f7fddb",
+        "android_client_info": {
+          "package_name": "com.ankurshukla.knuth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112505068679-0sgn7g6ohb1mr0ps270v506o5q3umeo7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ankurshukla.knuth",
+            "certificate_hash": "b12b8e51ebbaa867dc9b4fecd3b389ef3d6332f7"
+          }
+        },
+        {
+          "client_id": "112505068679-vp7mj0at623pqsocvgflas809l01g6gd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFP3f3JTzhxeof5DjVNACMioA_8LwuH6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112505068679-vp7mj0at623pqsocvgflas809l01g6gd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

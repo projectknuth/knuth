@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">knuth</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!--DashboardFragment-->
+    <string name="logout_text">LOGOUT</string>
+    <string name="followers_text">followers</string>
+    <string name="questions_asked_text">asked</string>
+    <string name="questions_answered_text">answered</string>
+</resources>
